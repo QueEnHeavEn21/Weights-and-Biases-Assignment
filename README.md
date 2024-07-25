@@ -18,3 +18,6 @@ The Logistic Regression model is implemented in the `Weights&Biases Assignment.i
 
 ## Results
 The results of the model training and evaluation, including accuracy, precision, recall, and other metrics, are tracked and visualized on Weights and Biases. You can view the project dashboard and results through the report in this repository.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
